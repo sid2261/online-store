@@ -1,4 +1,4 @@
-# online-store
+# Online-store
 
 ## Implement various hooks to understand its working.
 
